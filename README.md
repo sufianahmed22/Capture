@@ -2,15 +2,6 @@
 
 Note Taking App developed using ReactJS and its features.
 
-## Technologies Used:
-
-- HTML.
-- CSS.
-- ReactJS.
-- React Hooks.
-- Functional Components.
-- React Responsive Modal.
-
 ## Silent Features:
 
 - User can add unlimited notes.
